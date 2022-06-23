@@ -1,7 +1,5 @@
 #### Remove `package.json` `package-lock.json`
 
-- in Terminal
-
 #### Create Package.json
 
 ```js
